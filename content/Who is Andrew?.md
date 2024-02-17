@@ -24,9 +24,6 @@ Beyond my professional endeavors, I embrace life as a [[father]], brother, son, 
 - **Outdoorsmanship**: Engaging with [[nature]] through fishing and camping.
 	- [[Camping]]
 	- [[Fishing]]
-	- 
-	- 
-	- zzzzzzzzzzzzzzzzzzzz
 
 
 #Introduction 
