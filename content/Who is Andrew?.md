@@ -1,10 +1,3 @@
----
-title: About Me
-date created: 2023-09-09T12:57:00
-date modified: 2024-02-04T20:22:00
-tags:
-  - Introduction
----
 I am an [[Engineer]] 👨‍💻 specializing in Cloud Computing, and Automation, currently enhancing my expertise through multiple certifications.
 
 I currently serve as the [[Senior Network Systems Analyst at the Florida Department of Health, Monroe County]], committed to making a significant impact to those citizens through [[technology]] and [[innovation]].
@@ -33,8 +26,4 @@ Beyond my professional endeavors, I embrace life as a [[father]], brother, son, 
 	- [[Fishing]]
 
 
-[[ZZZZzzzzzzzzzzzzzzzzzz]]
-
-
-
-hhhhhhhhhhhhhhhhhhhhhhhhhhh
+#Introduction 
