@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Andrew's Driftwood 🪴",
+    pageTitle: "Andrew's Driftwood 📝",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
