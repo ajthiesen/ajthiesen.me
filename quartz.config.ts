@@ -18,7 +18,7 @@ const config: QuartzConfig = {
       typography: {
         header: "Open Sans",
         body: "Open Sans",
-        code: "IBM Plex Mono",
+        code: "Open Sans",
       },
       colors: {
         lightMode: {
