@@ -21,17 +21,16 @@ const config: QuartzConfig = {
         code: "IBM Plex Mono",
       },
       colors: {
-  lightMode: {
-    sand: "#F4D7AF",
-    sky: "#87CEEB",
-    ocean: "#0077B6",
-    waves: "#00B4D8",
-    sunset: "#FFA07A",
-    palm: "#2E8B57",
-    coral: "#FF7F50",
-    highlight: "rgba(255, 224, 130, 0.2)",
-  },
-}
+        lightMode: {
+          light: "#faf8f8",
+          lightgray: "#e5e5e5",
+          gray: "#b8b8b8",
+          darkgray: "#4e4e4e",
+          dark: "#2b2b2b",
+          secondary: "#284b63",
+          tertiary: "#84a59d",
+          highlight: "rgba(143, 159, 169, 0.15)",
+        },
         darkMode: {
           light: "#161618",
           lightgray: "#393639",
