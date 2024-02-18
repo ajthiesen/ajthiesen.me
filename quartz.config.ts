@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Andrew's Second 🧠",
+    pageTitle: "Andrew's Driftwood 🪴",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "www.ajthiesen.me",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "draft"],
     defaultDateType: "created",
     theme: {
       cdnCaching: true,
