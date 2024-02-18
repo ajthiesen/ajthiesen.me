@@ -21,7 +21,7 @@ const config: QuartzConfig = {
         code: "IBM Plex Mono",
       },
       colors: {
-  lightMode: {
+       lightMode: {
     sand: "#F4D7AF", // Light sandy color for background, resembling the beach.
     sky: "#87CEEB", // Soft sky blue for a calming effect and to represent the daytime sky.
     ocean: "#0077B6", // Deeper blue to represent the ocean.
