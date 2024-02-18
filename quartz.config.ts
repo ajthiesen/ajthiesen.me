@@ -22,14 +22,15 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          sand: "#F4D7AF", // Light sandy color for background, resembling the beach.
-          sky: "#87CEEB", // Soft sky blue for a calming effect and to represent the daytime sky.
-          ocean: "#0077B6", // Deeper blue to represent the ocean.
-          waves: "#00B4D8", // Brighter blue for highlights or accents, representing the vibrant ocean waves.
-          sunset: "#FFA07A", // Soft, warm tone for accents, mimicking the colors of a beach sunset.
-          palm: "#2E8B57", // Rich green, reminiscent of palm trees or coastal vegetation.
-          coral: "#FF7F50", // Coral color for call-to-action buttons or highlights, adding a pop of vibrant color.
-          highlight: "rgba(255, 224, 130, 0.2)", // Soft, warm highlight color, evoking a gentle sunlight glimmer.
+          lightMode: {
+            light: "#faf8f8",
+            lightgray: "#e5e5e5",
+            gray: "#b8b8b8",
+            darkgray: "#4e4e4e",
+            dark: "#2b2b2b",
+            secondary: "#284b63",
+            tertiary: "#84a59d",
+            highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
           light: "#161618",
