@@ -1,10 +1,3 @@
----
-title: Digital Garden
-date created: 2024-02-04T20:38:00
-date modified: 
-tags:
-  - demi
----
 ## A garden should be shared...
 
 As I delve into the concept of a Digital Garden, it's fascinating to see it as a personal, evolving space on the web. Unlike the static nature of traditional blogs or websites, my Digital Garden at ajthiesen.me is a living, breathing entity that grows and changes with me. It's a reflection of my [[journey]], not just in [[technology]] and [[automation]] but in [[personal development]] too.
