@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     theme: {
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
+        header: "Open Sans",
         body: "Open Sans",
         code: "IBM Plex Mono",
       },
