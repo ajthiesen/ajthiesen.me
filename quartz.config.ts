@@ -5,7 +5,7 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "Andrew's Driftwood 📝",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: trfalseue,
     analytics: {
       provider: "plausible",
     },
