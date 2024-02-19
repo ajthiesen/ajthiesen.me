@@ -1,5 +1,5 @@
 ---
-title: reader
+title: reader.md
 ---
 hhhhhhhhhhhhh
 
