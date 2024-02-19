@@ -4,7 +4,9 @@ I currently serve as the [[Senior Network Systems Analyst at the Florida Departm
 
 As a lifelong student 👨‍🎓 and a proud [[father]] 👨‍👧‍👧, I cherish my journey of personal and professional growth alongside my [[four wonderful children]].
 
-My leisure pursuits include savoring [[craft beer]]s 🍺, exploring the vast world of [[tacos]] 🌮, tasting every cup of [[coffee]] (see my [[Tags]] )I can find and indulging in the rich landscapes of [[Podcasts]] and [[Audiobooks]] 🎙️. I'm an avid [[reader]].  [[parent]]
+My leisure pursuits include savoring [[craft beer]]s 🍺, exploring the vast world of [[tacos]] 🌮, tasting every cup of [[coffee]] (see my [[Tags]] )I can find and indulging in the rich landscapes of [[Podcasts]] and [[Audiobooks]] 🎙️. I'm an avid [[reader]].
+
+
 
 
 Beyond my professional endeavors, I embrace life as a [[father]], brother, son, and husband. My passions extend across a broad spectrum:
