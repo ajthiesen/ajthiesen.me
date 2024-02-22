@@ -22,14 +22,14 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-            light: "#faf8f8",
-            lightgray: "#e5e5e5",
-            gray: "#b8b8b8",
-            darkgray: "#4e4e4e",
-            dark: "#2b2b2b",
-            secondary: "#284b63",
-            tertiary: "#84a59d",
-            highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#f8f4ec", // Creamy sand color
+          lightgray: "#d5dbe2", // Soft, cool gray like seafoam
+          gray: "#b0c2c4", // Slightly deeper gray, like wet sand
+          darkgray: "#546d78", //  Ocean blue-gray 
+          dark: "#31414f", //  Deep ocean blue
+          secondary: "#4299e1", // Vibrant ocean blue
+          tertiary: "#9ec1a3", // Muted seafoam green
+          highlight: "rgba(66, 153, 225, 0.15)", // Light blue highlight like shallow water
         },
         darkMode: {
           light: "#161618",
