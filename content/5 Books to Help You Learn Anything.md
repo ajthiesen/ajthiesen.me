@@ -1,7 +1,5 @@
 ---
 title: 5 Books to Help You Learn Anything
-date created: 2023-09-09T12:57:00
-date modified: 2024-02-04T20:22:00
 tags:
   - books
   - learning
