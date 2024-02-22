@@ -32,14 +32,14 @@ const config: QuartzConfig = {
           highlight: "rgba(66, 153, 225, 0.15)", // Light blue highlight like shallow water
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#1e2029", // Deep midnight blue 
+          lightgray: "#373d4a", // Muted cool gray with a hint of blue
+          gray: "#5a6370", // Slightly lighter cool gray
+          darkgray: "#969da9", // Desaturated gray-blue, like twilight water
+          dark: "#c4c9d3", // A soft, sandy beige
+          secondary: "#577399", // Deep muted blue, like the evening ocean
+          tertiary: "#a79c7f", // Desaturated sandy brown 
+          highlight: "rgba(87, 115, 153, 0.2)", // Deeper blue for highlights
         },
       },
     },
