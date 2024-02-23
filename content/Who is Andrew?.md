@@ -33,3 +33,5 @@ Beyond my professional endeavors, I embrace life as a [[father]], [[brother]], [
 - **Writing**: Expressing my thoughts and ideas through the [[written]] word.
 - **Yoga**: Embracing the physical and mental benefits of [[yoga]].
 - **Zoology**: Exploring the animal kingdom and its diverse species.
+
+[[content/AI]]
