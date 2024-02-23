@@ -1,5 +1,4 @@
 ---
-title: AI "Art"
 tags: 
   - AI
   - Art

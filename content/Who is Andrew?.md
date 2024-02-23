@@ -13,25 +13,26 @@ Beyond my professional endeavors, I embrace life as a [[father]], [[brother]], [
 
 - **Anthropology**
 - **History**: Delving into the mysteries of 
-	- Pre-Columbian times, 
-	- The Great War, and 
-	- World War II.
+  - Pre-Columbian times, 
+  - The Great War, and 
+  - World War II.
 - **Ecology & Conservation**: Advocating for environmental stewardship.
 - **Leadership**
-	- [[Personal Development]]
+  - [[Personal Development]]
 - **Literature**: Committing to the art of reading and free-form writing.
 - **Media Consumption**
-	- [[Audiobooks]]
-	- [[Books]]
-	- [[Movies]]
-	- [[Podcasts]]
+  - [[Audiobooks]]
+  - [[Books]]
+  - [[Movies]]
+  - [[Podcasts]]
 - **Outdoorsmanship**: Engaging with [[nature]] through fishing and camping.
-	- [[Camping]]
-	- [[Fishing]]
-- **Technology**: Embracing the digital age and the future of [[automation]].
+  - [[Camping]]
+  - [[Fishing]]
+- **Technology**: Embracing the digital age and the future of: 
+  - [[automation]], 
+  - [[Machine Learning]], 
+  - and [[Artifical Intelligence]].
 - **Travel**: Exploring the world and its diverse [[cultures]].
 - **Writing**: Expressing my thoughts and ideas through the [[written]] word.
 - **Yoga**: Embracing the physical and mental benefits of [[yoga]].
 - **Zoology**: Exploring the animal kingdom and its diverse species.
-
-[[content/AI]]
