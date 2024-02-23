@@ -1,12 +1,12 @@
-I am an [[Engineer]] 👨‍💻 specializing in Cloud Computing, and Automation, currently enhancing my expertise through multiple certifications.
+# Who is Andrew?
 
-I currently serve as the [[Senior Network Systems Analyst at the Florida Department of Health, Monroe County]], committed to making a significant impact to those citizens through [[technology]] and [[innovation]].
+I am an [[Engineer]] and [[Technologist]] with a passion for [[innovation]] and [[automation]]. I currently serve as the [[Senior Network Systems Analyst at the Florida Department of Health, Monroe County]], committed to making a significant impact to those citizens through [[technology]] and [[innovation]].
 
-As a lifelong student 👨‍🎓 and a proud [[father]] 👨‍👧‍👧, I cherish my journey of personal and professional growth alongside my [[four wonderful children]].
+As a lifelong student 👨‍🎓 and a proud [[father]] 👨‍👧‍👧, I cherish my journey of personal and professional growth alongside my [[four wonderful children]]. 
 
 My leisure pursuits include savoring [[craft beer]]s 🍺, exploring the vast world of [[tacos]] 🌮, tasting every cup of [[coffee]] (see my [[Tags]] )I can find and indulging in the rich landscapes of [[Podcasts]] and [[Audiobooks]] 🎙️ and dead tree [[books]].
 
-Beyond my professional endeavors, I embrace life as a [[father]], brother, son, and husband. My passions extend across a broad spectrum:
+Beyond my professional endeavors, I embrace life as a [[father]], [[brother]], [[son]], and [[husband]]. My passions extend across a broad spectrum:
 
 - **Anthropology**
 - **History**: Delving into the mysteries of 
