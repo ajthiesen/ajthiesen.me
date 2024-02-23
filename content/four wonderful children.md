@@ -1,7 +1,4 @@
 ---
-title: 
-date created: 
-date modified: 
 tags:
   - children
   - family
