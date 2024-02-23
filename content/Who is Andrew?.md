@@ -1,6 +1,9 @@
+---
+tags: Introduction, About Me
+---
 # Who is Andrew?
 
-I am an [[Engineer]] and [[Technologist]] with a passion for [[innovation]] and [[automation]]. I currently serve as the [[Senior Network Systems Analyst at the Florida Department of Health, Monroe County]], committed to making a significant impact to those citizens through [[technology]] and [[innovation]].
+I am an [[Engineer]] and [[Technologist]]. I currently serve as the [[Senior Network Systems Analyst at the Florida Department of Health, Monroe County]]. My professional journey has been a rich tapestry of experiences, including: Technical Support, Technical Account Management, and [[Artifical Intelligence]] and [[Machine Learning]] with a focus on perinatal health and mortality through the [[Callen Score]] project.  
 
 As a lifelong student 👨‍🎓 and a proud [[father]] 👨‍👧‍👧, I cherish my journey of personal and professional growth alongside my [[four wonderful children]]. 
 
@@ -30,5 +33,3 @@ Beyond my professional endeavors, I embrace life as a [[father]], [[brother]], [
 - **Writing**: Expressing my thoughts and ideas through the [[written]] word.
 - **Yoga**: Embracing the physical and mental benefits of [[yoga]].
 - **Zoology**: Exploring the animal kingdom and its diverse species.
-
-#Introduction 

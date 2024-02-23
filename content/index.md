@@ -7,4 +7,4 @@ Hi!
 
 I’m Andrew. This is my [[Digital Garden]] built with [Obsidian](https://obsidian.md/) and [Quartz](https://quartz.jzhao.xyz/).
 
-[[Who is Andrew? | Stsrt Here]]
+[[Who is Andrew? | Start Here]]
