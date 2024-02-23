@@ -1,7 +1,7 @@
 ---
 Title: test
-Date Created: 2020-01-01
-Date Modified: 2024-02-23
+Date Created: YYYY-MM-DDTHH:mm:ss.sssZ
+Date Modified: YYYY-MM-DDTHH:mm:ss.sssZ
 tags: 
   - test
   - test2
