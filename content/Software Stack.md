@@ -1,6 +1,6 @@
 [[Alfred]]
 [[brew]] | [brew.sh](https://brew.sh/)
-[[GitKraken]]
+~~[[GitKraken]]~~~
 [[Hazel]]
 [[Keka]]
 [[Mailmate]]

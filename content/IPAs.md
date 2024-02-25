@@ -1,6 +1,6 @@
 **IPAs: A Love Letter to Hops**
 
-I've always been a beer lover, but it wasn't until I discovered the magic of IPAs (India Pale Ales) that I truly fell head over heels for the world of craft brewing. IPAs are a testament to the brilliant and sometimes bizarre flavor profiles achievable through the humble hop plant. They've become my go-to, my obsession, and the lens through which I often explore the ever-expanding beer scene.
+I've always been a beer lover, but it wasn't until I discovered the magic of [[IPAs]] (India Pale Ales) that I truly fell head over heels for the world of [[craft brewing]]. [[IPA]]s are a testament to the brilliant and sometimes bizarre flavor profiles achievable through the humble hop plant. They've become my go-to, my obsession, and the lens through which I often explore the ever-expanding beer scene.
 
 **What Even is an IPA?**
 

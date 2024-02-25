@@ -6,7 +6,9 @@ const config: QuartzConfig = {
     pageTitle: "Andrew's Driftwood 📝",
     enableSPA: true,
     enablePopovers: false,
-    analytics: {},
+    analytics: {
+      plausible
+    },
     locale: "en-US",
     baseUrl: "www.ajthiesen.me",
     ignorePatterns: ["private", "templates", ".obsidian", "draft"],

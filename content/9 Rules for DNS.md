@@ -1,6 +1,3 @@
-  
-Domain Name Services
---------------------
 
 You'd think, in the 21st Century I wouldn't have to explain to people
 about #DNS and how to use it. But apparently I do. So here's some quick
