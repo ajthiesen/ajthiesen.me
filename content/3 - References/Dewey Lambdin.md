@@ -1,5 +1,0 @@
-Dewey Lambdin (born 1945) is an American author of historical naval fiction. He is best known for his series of novels featuring the character of [[Alan Lewrie Series | Alan Lewrie]], a naval officer during the late 18th and early 19th centuries. Lambdin is a former U.S. Navy officer and has a lifelong interest in naval history.
-
-Lambdin's Alan Lewrie series began with the publication of "The King's Coat" in 1989 and has continued with over 20 additional books, including "The Captain's Vengeance," "The Baltic Gambit," and "A Fine Retribution." The series is known for its accurate depiction of historical events and characters, as well as its engaging storytelling and action-packed naval battles.
-
-In addition to his Alan Lewrie series, Lambdin has also written several standalone novels, including "Sea of Grey," "The Invasion Year," and "The French Admiral." He has won several awards for his work, including the American Library Association's W. Y. Boyd Award for Excellence in Military Fiction.
