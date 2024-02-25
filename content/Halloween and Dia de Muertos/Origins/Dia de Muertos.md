@@ -1,0 +1,11 @@
+Dia de Muertos, or Day of the Dead, is a holiday celebrated in Mexico and other parts of Central and South America on November 1st and 2nd. The holiday is a time for families and friends to gather and remember their loved ones who have passed away.
+
+![5 Things You'll See On A Dia De Los Muertos Altar](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwac.450f.edgecastcdn.net%2F80450F%2Fkisselpaso.com%2Ffiles%2F2016%2F10%2Fdia-de-los-muertos-altar.jpg&f=1&nofb=1&ipt=501c129bc84ba3de9a694b90098f39ebb2893fcaf17c8c2b9bd0ca2ec4bad239&ipo=images)
+
+The origins of the holiday can be traced back to indigenous cultures in [[Mexico]], such as the [[Aztecs]] and the [[Maya]], who had a deep respect for death as a natural part of life. These cultures believed that death was not an end, but rather a transformation to a different state of being. They viewed the dead as still being a part of their community and believed that they could return to the world of the living during the Day of the Dead.
+
+When the Spanish arrived in Mexico in the 16th century, they brought with them their own traditions and religious beliefs, including the Catholic observance of [[Halloween and Dia de Muertos/Origins/All Saints' Day]] on November 1st and [[Halloween and Dia de Muertos/Origins/All Souls' Day]] on November 2nd. Over time, these Christian holidays merged with the indigenous beliefs and practices surrounding death, leading to the modern celebration of Dia de los Muertos.
+
+Today, Dia de Muertos is celebrated with colorful altars or [[Halloween and Dia de Muertos/Traditions/Ofrendas]], which are decorated with [[flowers]], candles, [[food]], and other offerings to honor the dead. People also paint their faces to resemble *[[Halloween and Dia de Muertos/Recipes/Calaveritas de Azúcar]]*, or skulls, and participate in parades and other festive activities. The holiday has become an important part of Mexican and Latin American culture, and is celebrated in many other parts of the world as well.
+
+_The History of Day of the Dead_. (n.d.). Day of the Dead. Retrieved February 21, 2023, from [https://dayofthedead.holiday/history/](https://dayofthedead.holiday/history/)

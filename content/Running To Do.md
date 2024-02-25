@@ -1,0 +1,25 @@
+- [ ] global dominance 
+- [x] Check Lottery/Powerball Tickets
+- [x] Ship HW back to #Sensory
+	- [x] Confirm HW received
+- [ ] Consolidate and close addtl [[Email]] accounts
+- [x] Fix/Resolve #NSULA 2FA
+- [ ] #NSULA Module 2 Assignments
+- [x] Audit 2FA Accounts and Consolidate into #Bitwarden
+- [x] #SPC August 18 - All Day 
+- [x] Tech Assessment for #Totango by 2022-08-06
+- [x] Delete Fastweb emails and unsubscribe 
+- [x] Migrate #Evernote to #Obsidian 
+- [ ] Text John W re #Sensory update
+- [x] Download Kaiju Preservation Society - John Scalzi
+- [ ] Take wife to Claw Bar @Bellasara
+- [ ] Develop #Obsidian plugin. 
+- [x] Roll over #Sensory 401K
+- [ ] [[Running To Do Inspiration
+- [x] Import Passwords from #chrome to #1Password
+- [x] Import from Safari to #1Password 
+- [x] Imorr from #Keeper to #1Password 
+- [ ] [[Fastmail
+- [ ] Archive emails into DEVONThink 
+- [ ] Migrate from 1Password to Bitwarden
+- [ ] 

@@ -1,0 +1,5 @@
+_**Sequoiadendron giganteum**_, also known as the **giant sequoia**, **giant redwood** or **Sierra redwood** is a [coniferous](https://en.m.wikipedia.org/wiki/Conifer "Conifer") [tree](https://en.m.wikipedia.org/wiki/Tree "Tree"), classified in the family [Cupressaceae](https://en.m.wikipedia.org/wiki/Cupressaceae "Cupressaceae")in the subfamily [Sequoioideae](https://en.m.wikipedia.org/wiki/Sequoioideae "Sequoioideae"). Giant sequoia specimens are the most massive trees on Earth.[[3]](https://en.m.wikipedia.org/wiki/Sequoiadendron_giganteum#cite_note-usda-3).
+
+They occur naturally only in groves on the western slopes of the [Sierra Nevada](https://en.m.wikipedia.org/wiki/Sierra_Nevada_(U.S.) "Sierra Nevada (U.S.)") mountain range of California.
+
+https://en.m.wikipedia.org/wiki/Sequoiadendron_giganteum#:~:text=Sequoiadendron%20giganteum%2C%20also%20known%20as,Cupressaceae%20in%20the%20subfamily%20Sequoioideae.

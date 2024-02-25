@@ -1,0 +1,31 @@
+Your Bitwarden two-step login recovery code:
+HSOL 5FKS WJPH GFWJ 4K63 AFK7 UPYJ OC2W
+
+Evernote:
+Your single-use Backup Codes
+
+1. 2724-6033-7786-7395 
+2. 8492-4829-9423-1979 
+3. 3338-8686-1838-4472 
+4. 8298-4550-2327-9810
+
+Linode:
+blash-finis-cion-dice
+
+KEEPER
+
+CODE 1: 272 387 339
+
+CODE 2: 482 106 617
+
+CODE 3: 078 975 830
+
+CODE 4: 589 005 310
+
+CODE 5: 127 204 697
+
+CODE 6: 420 430 711
+
+CODE 7: 599 847 672
+
+CODE 8: 928 795 136

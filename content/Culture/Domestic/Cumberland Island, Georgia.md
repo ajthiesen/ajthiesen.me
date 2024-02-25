@@ -1,0 +1,3 @@
+This 40-square-mile barrier island off the coast of [[Georgia]] near [[Florida]] has some of the most pristine beaches on the East Coast, and its Spanish moss-draped landscapes are worthy of a romance novel. It is a great place to see wildlife, including horses, feral hogs, armadillos, endangered sea turtles, and a wide variety of birds. Visitors can either camp in tents or stay at the Greyfield Inn, a historic bed-and-breakfast built by the Carnegie family in the 1890s. In addition to preserving the natural habitat, the Cumberland Island Conservancy has also sponsored retreats for artists and writers."
+
+ https://getpocket.com/explore/item/6-u-s-islands-where-you-can-t-help-but-slow-down

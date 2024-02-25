@@ -1,0 +1,1 @@
+https://reddit.com/r/AskReddit/comments/x4qkvz/what_is_the_most_boring_hobby_a_person_can_have/
