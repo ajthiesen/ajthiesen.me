@@ -1,1 +1,0 @@
-A Non Human Organization is a legally registered and recognized organization which does not receive any type of private funding. While most NHOs are typically divided across genetic lines, there are some cross-species NHOs. Such as the NATO or the Naturally Any Type Other. 

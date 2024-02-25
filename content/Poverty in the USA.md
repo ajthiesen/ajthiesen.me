@@ -1,1 +1,0 @@
-[](https://reddit.com/r/Documentaries/comments/s0ou3s/poverty_in_the_usa_being_poor_in_the_worlds/)

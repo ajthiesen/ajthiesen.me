@@ -1,3 +1,0 @@
-Plot summary
-
-On the human colony planet Zara XXIII, Jack Holloway is a rebellious former lawyer working as a contract surveyor for the firm Zaracorp. He is fired for causing environmental damage after letting his dog set off explosives (again). However, the explosion uncovers a massive trove of tremendously valuable sunstones. Holloway persuade the Zaracorp manager that the sunstones are now by rights his; the manager agrees to a rider to his contract to grant him a greater share of the spoils. Shortly thereafter, Holloway meets a family of clever, cat-like creatures which he dubs the fuzzys. The family of fuzzys moves into his home. Holloway calls his ex-girlfriend Isabel Wangai, Zaracorp's biologist, to meet them.

@@ -1,1 +1,0 @@
-This is my *revised* Obsidain unstructured/structured [[Digital Garden]].

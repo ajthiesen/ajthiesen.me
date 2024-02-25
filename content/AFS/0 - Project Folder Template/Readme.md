@@ -1,1 +1,0 @@
-This is the default ReadMe.md file that should exist in every project folder.

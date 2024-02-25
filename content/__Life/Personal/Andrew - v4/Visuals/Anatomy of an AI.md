@@ -1,1 +1,0 @@
-![[ai-anatomy-map.pdf]]

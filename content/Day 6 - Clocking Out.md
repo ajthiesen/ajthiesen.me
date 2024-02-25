@@ -1,7 +1,0 @@
-Ever since I was #laid-off last week I have been working a #contract job while I figure out what’s next. 
-
-It’s possibly the ~~best~~ smartest thing I have ever done. Themis week has all been #training. The day starts at 0930. Morning break for fifteen minutes. Half-hour lunch break, between noon and one. More training until about three. Another quick break, the training agin until five thirty in the evening. No #Teams or #Slack messages while I’m making dinner with my wife. No emails with ridiculous requests or stupid questions while we’re eating dinner. No pings. No nothing. It’s almost, relaxing. I have a fixed start and end time. There pretty much no overtime. It’s remote. They sent me everything I need: laptop, monitor. headset, etc.  Pay is decent. Not amazing but certainly not horrible either. The training isn’t even all the boring. The trainer is on top of things. There’s a number of little exercises we do throughout the day to learn the product. I’m kind of….#happy. I’m still interviewing for a something permanent. I withdrew one application already: [[Withdrawal from a Company]]. 
-
-It’s nice to clock out, and be done for the day and not have to think about work or feel like it’s looming over me like the other place was. I’m even sleeping better. 🙃. 
-
-There’s something to be said for having a #life and #schedule.

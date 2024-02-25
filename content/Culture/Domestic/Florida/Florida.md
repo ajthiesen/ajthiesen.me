@@ -1,1 +1,0 @@
-Florida is where I _currently_ (that may change in the future, you never know) live and work. 

@@ -1,9 +1,0 @@
-Halloween has its origins in the ancient Celtic festival of [[Samhain]] (pronounced SOW-in). Samhain was a festival that marked the end of the harvest season and the beginning of winter. It was believed to be a time when the boundary between the living and the dead became blurred, and ghosts and other supernatural beings could enter the human world.
-
-![Why Is Halloween Celebrated On Oct. 31? There's A Lot Of History Behind ...](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.niHRRA_4oKttNAt6BmYNUAHaD4%26pid%3DApi&f=1&ipt=64123d025c15fbfaae2d8b847e75d3bd96d74202dbbc8c6ef276310c04235683&ipo=images)
-
-To ward off these spirits, the Celts would light bonfires and wear costumes and masks. They would also offer food and drink to the dead and the spirits to appease them. When the Romans conquered the Celtic lands, they incorporated some of the traditions of Samhain into their own festival of Pomona, which was a celebration of the goddess of fruit and trees.
-
-In the 8th century, [[Pope Gregory III]] declared November 1st as All Saints' Day, a day to honor all the saints and martyrs of the Christian faith. This day was also known as All-hallows, and the night before, October 31st, was called All-hallows Eve, which eventually became Halloween.
-
-As Christianity spread throughout Europe, the traditions of Samhain and All-hallows Eve merged, and Halloween became a day to remember the dead and to celebrate the supernatural. The practice of dressing up in costumes and going door-to-door for food and money (trick-or-treating) is believed to have originated from the medieval practice of "souling," where people would go door-to-door offering to say prayers for the dead in exchange for food.
