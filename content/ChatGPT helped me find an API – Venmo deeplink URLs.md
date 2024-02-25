@@ -3,7 +3,7 @@ link: https://steven-senkus.com/chatgpt-generated-api-venmo-deeplink-url/
 author: itqwertz
 published: 2023-02-21T21:53:00
 tags:
-  - draft
+  - private
 ---
 # Highlights
 
