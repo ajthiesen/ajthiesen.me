@@ -1,5 +1,5 @@
 # Intro 
-I’m Andrew. I like to ~~build~~ ~~and~~ tinker.  This is my  ‘[[Digital Garden]]’ is a *now* unstructured collection of thoughts, ideas, notes, and notes built with [Obsidian](https://obsidian.md/). 
+I’m Andrew. I like to ~~build~~ ~~and~~ tinker.  This is my  ‘[[content/Digital Garden]]’ is a *now* unstructured collection of thoughts, ideas, notes, and notes built with [Obsidian](https://obsidian.md/). 
 
 I’m not sure if I would go so far as to say this thing is really **anything** more then a collection of *stuff* but, I don't know. Perhaps someone will glean something from this, and my ~~chaotic~~ writing style.
 

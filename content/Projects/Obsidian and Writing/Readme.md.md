@@ -1,1 +1,1 @@
-This is my *revised* Obsidain unstructured/structured [[Digital Garden]].
+This is my *revised* Obsidain unstructured/structured [[content/Projects/Obsidian and Writing/1 - Notes/Digital Garden]].

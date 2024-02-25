@@ -66,4 +66,4 @@
 
 In this file structure, each folder contains relevant markdown files organized by topic or type. The `Projects` folder is organized by individual projects, each with its own subfolders for notes, references, insights, and visuals. The `README.md` files in each project folder can be used to provide an overview of the project, explain its purpose and scope, and link to relevant notes, references, and insights.
 
-The above file structure can be customized to suit individual needs and preferences. The key is to keep the [[Digital Garden]] well-organized, easily navigable, and conducive to creativity and learning.
+The above file structure can be customized to suit individual needs and preferences. The key is to keep the [[content/Projects/Obsidian and Writing/1 - Notes/Digital Garden]] well-organized, easily navigable, and conducive to creativity and learning.
