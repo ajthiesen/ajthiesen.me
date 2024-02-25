@@ -1,0 +1,1 @@
+The article: [In the Land of Missing Persons](https://www.theatlantic.com/magazine/archive/2016/04/in-the-land-of-missing-persons/471477/) was the initial inspiration for the [[Presumed Missing in Alaska]] podcast that never quite #launched.  I may need to revisit this. 
