@@ -4,7 +4,7 @@ I've always been a beer lover, but it wasn't until I discovered the magic of IPA
 
 **What Even is an IPA?**
 
-At their core, IPAs are all about hops. These little green cones are the flowers of the hop plant (_Humulus lupulus_) and are what gives IPAs their signature bitterness, aroma, and complexity. Brewers use insane amounts of hops compared to other beer styles, leading to intensely flavorful (and often intensely bitter) brews.
+At their core, IPAs are all about hops. These little green cones are the flowers of the hop plant ([[_Humulus lupulus_]]) and are what gives IPAs their signature bitterness, aroma, and complexity. Brewers use insane amounts of hops compared to other beer styles, leading to intensely flavorful (and often intensely bitter) brews.
 
 But the story goes deeper. See, IPAs were allegedly born from necessity. British brewers shipping casks of pale ale to India needed their beer to survive the long journey. Hops have natural preservative qualities, so they piled them in, which had the added effect of boosting the beer's flavor intensity. Thus, the India Pale Ale was born. Or so the story goes.
 
@@ -12,10 +12,10 @@ But the story goes deeper. See, IPAs were allegedly born from necessity. British
 
 The beauty of IPAs lies in their diversity. Here's a quick and dirty breakdown of some major styles:
 
-- **West Coast IPA:** The OGs. Crystal clear, piney, and boasting an assertive bitterness that'll clear your sinuses. These are for the hopheads who like it traditional.
-- **New England IPA (NEIPA):** Hazy, juicy, and almost creamy in texture. NEIPAs explode with tropical fruit flavors and have a softer bitterness. They're a divisive bunch – people either love their pillowy mouthfeel or can't get past the murky looks.
-- **Brut IPA:** Bone dry and crisp, with a focus on showcasing hop aroma more than bitterness. Think champagne-like with some funky hop notes.
-- **Double/Triple IPA:** Also known as Imperial IPAs. Basically, take everything about regular IPAs and crank it up to 11. Higher alcohol content, bigger hop presence, a powerful punch to the palate.
+- [[**West Coast IPA]]:** The OGs. Crystal clear, piney, and boasting an assertive bitterness that'll clear your sinuses. These are for the hopheads who like it traditional.
+- [[**New England IPA (NEIPA)]]:** Hazy, juicy, and almost creamy in texture. NEIPAs explode with tropical fruit flavors and have a softer bitterness. They're a divisive bunch – people either love their pillowy mouthfeel or can't get past the murky looks.
+- [[**Brut IPA]]:** Bone dry and crisp, with a focus on showcasing hop aroma more than bitterness. Think champagne-like with some funky hop notes.
+- [[**Double/Triple IPA]]:** Also known as Imperial IPAs. Basically, take everything about regular IPAs and crank it up to 11. Higher alcohol content, bigger hop presence, a powerful punch to the palate.
 
 And that's just the tip of the iceberg! There are black IPAs, fruited IPAs, milkshake IPAs... the creativity of brewers when it comes to this style seems boundless.
 
