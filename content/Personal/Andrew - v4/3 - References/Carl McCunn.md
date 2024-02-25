@@ -1,1 +1,0 @@
-[Carl McCunn](https://en.m.wikipedia.org/wiki/Carl_McCunn)

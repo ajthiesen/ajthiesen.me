@@ -12,7 +12,7 @@ Traits such as:
 - humility
 - communication
 - soft-skills
-- determination/grit
+- ~~~determination/grit
 - resilience 
 
 I would suggest that all of these soft skills represent a person as a **whole**, not as a number on a scale, or as a series of letters. While I do not take complete stock in these assessment completely, I do believe certain ones, have some value. 
