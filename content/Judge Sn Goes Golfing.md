@@ -1,0 +1,1 @@
+By [[John Scalzi]] is a short story. 
