@@ -20,26 +20,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#f8f4ec", // Creamy sand color
-          lightgray: "#d5dbe2", // Soft, cool gray like seafoam
-          gray: "#b0c2c4", // Slightly deeper gray, like wet sand
-          darkgray: "#546d78", //  Ocean blue-gray 
-          dark: "#31414f", //  Deep ocean blue
-          secondary: "#4299e1", // Vibrant ocean blue
-          tertiary: "#9ec1a3", // Muted seafoam green
-          highlight: "rgba(66, 153, 225, 0.15)", // Light blue highlight like shallow water
+          light: "#f8f4ec", // Creamy sand - Unchanged, good neutral base
+          lightgray: "#e8eef1", // Slightly warmer gray, less cool 
+          gray: "#c0c8d0", // Neutral gray, more balanced
+          darkgray: "#546d78", // Ocean blue-gray - Unchanged, pleasant color
+          dark: "#262E36", // Softer, deeper dark background
+          secondary: "#007ACC", // Classic, vibrant blue for links/emphasis
+          tertiary: "#9ec1a3", // Muted seafoam green - Unchanged, nice contrast
+          highlight: "rgba(0, 122, 204, 0.15)", // Slightly deeper blue highlight
         },
         darkMode: {
-          light: "#1e2029", // Deep midnight blue 
-          lightgray: "#373d4a", // Muted cool gray with a hint of blue
-          gray: "#5a6370", // Slightly lighter cool gray
-          darkgray: "#969da9", // Desaturated gray-blue, like twilight water
-          dark: "#c4c9d3", // A soft, sandy beige
-          secondary: "#577399", // Deep muted blue, like the evening ocean
-          tertiary: "#a79c7f", // Desaturated sandy brown 
-          highlight: "rgba(87, 115, 153, 0.2)", // Deeper blue for highlights
-        },
-      },
+          light: "#262E36", // Slightly warmer/lighter dark background
+          lightgray: "#373d4a", // Unchanged, works well for contrast
+          gray: "#5a6370", // Unchanged, works well for contrast
+          darkgray: "#858F99", // Lighter, slightly warmer gray 
+          dark: "#e8eef1", // Warmer light color, easier on the eyes
+          secondary: "#577399", // Unchanged, complements dark mode well
+          tertiary: "#a79c7f", // Unchanged, good muted tone
+          highlight: "rgba(87, 115, 153, 0.3)", // Increased opacity for better visibility
+        }
+      }
     },
   },
   plugins: {
