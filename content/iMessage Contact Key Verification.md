@@ -1,3 +1,2 @@
 https://support.apple.com/en-us/HT213465
 
-# iMessage Contact Key Verification
